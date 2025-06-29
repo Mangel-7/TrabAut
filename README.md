@@ -26,7 +26,7 @@ El juego permite repetir partidas y ofrece una interfaz sencilla en consola para
   El programa está dividido en funciones reutilizables que hacen más fácil su mantenimiento y comprensión.
 
 - **Uso de estructuras clave**:
-  - Funciones: Para dividir tareas lógicas del programa.
+  - ´Funciones´: Para dividir tareas lógicas del programa.
   - Condicionales: Para comparar elecciones y manejar decisiones.
   - Ciclos repetitivos: Para repetir rondas y juegos completos.
   - Tuplas: Para definir las opciones válidas de juego como estructura inmutable.
