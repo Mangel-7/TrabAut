@@ -48,3 +48,6 @@ El juego permite repetir partidas y ofrece una interfaz sencilla en consola para
 ## Ejecución
 
 Para ejecutar el programa, abre una terminal en el directorio del archivo y corre:
+
+```bash
+python TrabAut.py
